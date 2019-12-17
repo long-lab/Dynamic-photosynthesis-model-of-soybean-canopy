@@ -1,0 +1,31 @@
+Tair	35																																	
+Ca	370																																	
+Oa	210																																	
+RH	70																																	
+VcmaxList	114.46	114.46	114.46	114.46	114.46	114.46	114.46	112.15	109.85	107.54	105.62	104.46	103.31	102.15	101	103.6	106.2	108.8	111.4	114	114.8	115.6	116.4	117.2	118	112.5	107	101.5	96	96	96	96	96	96
+JmaxList	177.69	177.69	177.69	177.69	177.69	177.69	177.69	177.23	176.77	176.31	175.69	174.77	173.85	172.92	172	177.8	183.6	189.4	195.2	201	208	215	222	229	236	227.5	219	210.5	202	202	202	202	202	202
+KtList	0.135	0.135	0.135	0.135	0.135	0.135	0.135	0.135	0.135	0.135																								
+KrList	0.0384	0.0384	0.0384	0.0384	0.0384	0.0384	0.0384	0.0384	0.0384	0.0384																								
+Rd0	0																																	
+Kmc0	404																																	
+Kmo0	278																																	
+Gstar	45																																	
+Theta	0.7																																	
+g0	20																																	
+g1	11.35																																	
+species	soybean																																	
+cultivar	WT																																	
+stage	V5																																	
+AnnuMeanTemperature	15.8																																	
+AmpAnnuTemperature	13.745																																	
+MeanAmpDailyTemp	3.2225																																	
+MaxAmpDailyTemp	5.5																																	
+DayStart	113																																	
+AtmosphericTransmittance	0.85																																	
+solarTimeNoon	12																																	
+latitude	41.1																																	
+longitude	-88.2														LAI	4.03																		
+ratioVerticaltoHorizontal	0.5																																	
+Kn	0.2																																	
+DOY_start	168																																	
+DOY_interval	3																																	
