@@ -1,6 +1,7 @@
 # Dynamic-photosynthesis-model-of-soybean-canopy
 
-This dynamic photosynthesis model of soybean canopy is developed by Yu Wang (yuwangcn@illinois.edu), IGB, University of Illinois. 
+This dynamic photosynthesis model of soybean canopy is developed by 
+Yu Wang (yuwangcn@illinois.edu), IGB, University of Illinois. 
 
 If you want to know more details, please check the following publication
 Publication: Yu Wang, Steven J. Burgess, Elsa de Becker, Stephen P. Long. Photosynthesis in the fleeting shadows: An overlooked opportunity for increasing crop productivity?  (Under revision)
